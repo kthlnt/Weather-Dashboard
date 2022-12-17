@@ -4,6 +4,8 @@
 
 Interactive weather dashboard for all cities with locally stored previously searched cities using an API to fetch weather info.
 
+https://kthlnt.github.io/Weather-Dashboard/
+
 ![weather dashboard](https://user-images.githubusercontent.com/116473087/208224993-386d1357-de49-46b3-967c-b43e61c27f2c.png)
 
 ## License
